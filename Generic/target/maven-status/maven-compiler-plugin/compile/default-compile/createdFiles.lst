@@ -1,0 +1,6 @@
+reporting/ExtentTestManager.class
+dataProviderXls/Xls_Reader.class
+reporting/TestLogger.class
+dataProviderXls/XlsDataReaderUtil.class
+base/CommonAPI.class
+reporting/ExtentManager.class
