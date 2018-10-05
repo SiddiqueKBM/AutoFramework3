@@ -169,7 +169,7 @@
                 <version>2.20.1</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <!--<suiteXmlFiles>target/test-classes/TestRunner.xml</suiteXmlFiles>-->
+                        <suiteXmlFiles>target/test-classes/TestRunner.xml</suiteXmlFiles>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
