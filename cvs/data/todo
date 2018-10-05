@@ -1,18 +1,21 @@
-To do list:
+            To do list:
 
-1. DB connection
-2. google API
+1. DB connection            done
+2. google API               done
 3. sauce Lab
-4. Browser stack        done
-5. key driven
-6. Excel sheet          done
-7. pop up handle
-8. Alert handle         done
-9. screen shot          done
+4. Browser stack            done
+5. key driven               done
+6. Excel sheet              done
+7. pop up handle            done
+8. Alert handle             done
+9. screen shot              done
 10. frame
-11. bootstrap dropdown  done
-12. mosuse hove dropdown done
-13. Explicit wait       done
-14.
-15.
-
+11. bootstrap dropdown      done
+12. Mouse hover dropdown    done
+13. Explicit wait           done
+14. Extent report/logger    done
+15. RestAPI                 partial
+17. Explore Postman         done
+16. jenkin
+17. jira
+18. Mobile auto             partial

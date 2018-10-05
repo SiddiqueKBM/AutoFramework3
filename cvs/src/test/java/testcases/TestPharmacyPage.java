@@ -22,6 +22,7 @@ public class TestPharmacyPage extends PharmecyPage {
     //************** Initializing elements of pages******************************************
     @BeforeMethod
     public void intializeElements(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         homePage = PageFactory.initElements(driver, HomePage.class);
         pharmecyPage = PageFactory.initElements(driver,PharmecyPage.class);
     }
@@ -29,12 +30,14 @@ public class TestPharmacyPage extends PharmecyPage {
     //************** Testing of mouse hover functionality ************************************
     @Test(priority = 1)
     public void myPharmacyLinkTest() throws InterruptedException {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         homePage.nevigateToPharmacyPage();
         pharmecyPage.mouseHoverOnMyPresciptionLink();
     }
 
     @Test(priority = 2)
     public void myPharmacyLinkTest2(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         homePage.nevigateToPharmacyPage();
         pharmecyPage.mouseHoverOnMyPresciptionLinkTest();
     }
@@ -42,6 +45,7 @@ public class TestPharmacyPage extends PharmecyPage {
     //************** Testing of drop-down menu-items  **************************************
     @Test(priority = 3)
     public void myPharmacyLinkTextCheck(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         homePage.nevigateToPharmacyPage();
         pharmecyPage.mouseHoverOnMyPresciptionLinkTest();
         List<String> itemOfDropdown = getTextOfMyPrescription();
@@ -58,6 +62,7 @@ public class TestPharmacyPage extends PharmecyPage {
     //************** Testing login function with Excel data provided in script ********************
     @Test(priority = 4)
     public void loginTest(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         homePage.nevigateToPharmacyPage();
         pharmecyPage.checkLoginFunction();
         String actual = invalidLoginMessage.getText();
@@ -69,21 +74,18 @@ public class TestPharmacyPage extends PharmecyPage {
     //************** Testing login function with "Excel" data provider *******************************
     @DataProvider
     public Iterator<Object[]> supplyDataExcel(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         ArrayList<Object[]> testDataExcel = XlsDataReaderUtil.getDataFromExcel();
         return testDataExcel.iterator();
     }
 
     @Test(priority = 5, dataProvider = "supplyDataExcel")
     public void loginTestWithDataProvider(String email, String passCode, String message) throws InterruptedException {
-        TestLogger.log("Email: "+ email);
-        TestLogger.log("Password: "+ passCode);
-        TestLogger.log("Expected Message: "+ message);
-
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         homePage.nevigateToPharmacyPage();
         pharmecyPage.logInUsingDataProvider(email, passCode);
         String actual = invalidLoginMessage.getText();
         Assert.assertEquals(actual,message);
         TestLogger.log("Test passed!");
     }
-
 }

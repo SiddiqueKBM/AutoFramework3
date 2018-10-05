@@ -45,20 +45,23 @@ public class PharmecyPage extends CommonAPI {
     }
 
     public void mouseHoverOnMyPresciptionLink(){
-
-       mouseHoverByxpath("//a[contains(text(), 'My Prescriptions')]");
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        mouseHoverByxpath("//a[contains(text(), 'My Prescriptions')]");
     }
 
     public void mouseHoverOnMyPresciptionLinkTest(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         mouseHoverByElement(myPrescriptionsLink);
     }
 
     public List<String> getTextOfMyPrescription(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         List<String> items = getTextFromWebElements(myPrescriptionsLink);
         return items;
     }
 
     public void checkLoginFunction(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         waitUntilClickAble(usernameBox);
         usernameBox.sendKeys("riadhul");
         passwordBox.sendKeys("fakefake");
@@ -66,6 +69,7 @@ public class PharmecyPage extends CommonAPI {
     }
 
     public void logInUsingDataProvider(String email, String passCode) throws InterruptedException {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         SendKeys(usernameBox,email,"usernameBox");
         passwordBox.sendKeys(passCode);
         Thread.sleep(3000);
@@ -73,5 +77,4 @@ public class PharmecyPage extends CommonAPI {
         String actualMessage = invalidLoginMessage.getText();
         TestLogger.log("Actual Message: "+actualMessage);
     }
-
 }
