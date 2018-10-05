@@ -20,7 +20,7 @@
     <session id="-1905401017">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
@@ -28,18 +28,18 @@
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="16" />
           <entry key="html" value="1" />
-          <entry key="java" value="195" />
+          <entry key="java" value="197" />
           <entry key="png" value="4" />
           <entry key="properties" value="2" />
           <entry key="todo" value="3" />
@@ -51,7 +51,7 @@
           <entry key="CLASS" value="16" />
           <entry key="HTML" value="1" />
           <entry key="Image" value="4" />
-          <entry key="JAVA" value="195" />
+          <entry key="JAVA" value="197" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Properties" value="2" />
           <entry key="XML" value="45" />
@@ -60,18 +60,18 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="11353" />
+          <entry key="java" value="11362" />
           <entry key="properties" value="1" />
           <entry key="todo" value="519" />
-          <entry key="xml" value="280" />
+          <entry key="xml" value="322" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11353" />
+          <entry key="JAVA" value="11362" />
           <entry key="PLAIN_TEXT" value="520" />
           <entry key="Properties" value="1" />
-          <entry key="XML" value="280" />
+          <entry key="XML" value="322" />
         </counts>
       </usages-collector>
     </session>
@@ -81,8 +81,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-95">
+            <state relative-caret-position="1020">
               <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testcases/TestHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="880">
+              <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,11 +111,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2660">
-              <caret line="133" selection-start-line="133" selection-end-line="133" />
+            <state>
+              <caret column="38" lean-forward="true" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -111,17 +123,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cvs/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="784">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="107">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cvs/src/test/resources/TestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cvs/src/test/resources/TestRunner.xml">
+        <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testcases/TestPharmacyPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="1540">
+              <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,7 +153,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
+            <state relative-caret-position="2100">
               <caret line="105" selection-start-line="105" selection-end-line="105" />
             </state>
           </provider>
@@ -138,32 +162,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/CreateAccountPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="34" column="59" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cvs/src/main/java/signinpage/PharmacyPageForGoogleSheet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="36" column="87" selection-start-line="36" selection-start-column="87" selection-end-line="36" selection-end-column="87" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cvs/src/main/java/signinpage/LoginKeyword.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="620">
-              <caret line="42" column="134" selection-start-line="42" selection-start-column="134" selection-end-line="42" selection-end-column="134" />
+              <caret line="34" column="59" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -229,7 +229,6 @@
         <option value="$PROJECT_DIR$/Generic/src/main/java/utility/ConnectToMongoDB.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/secret.properties" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/utility/ConnectToSqlDB2.java" />
-        <option value="$PROJECT_DIR$/cvs/src/test/java/testcases/TestHomePage.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/cvs/src/main/java/pages/HomePage.java" />
         <option value="$PROJECT_DIR$/cvs/src/test/java/testSignin/TestLoginKeyword.java" />
@@ -242,10 +241,11 @@
         <option value="$PROJECT_DIR$/cvs/src/test/java/testcases/TestCreateAccountPage.java" />
         <option value="$PROJECT_DIR$/cvs/src/main/java/pages/CreateAccountPage.java" />
         <option value="$PROJECT_DIR$/cvs/data/todo" />
-        <option value="$PROJECT_DIR$/cvs/pom.xml" />
-        <option value="$PROJECT_DIR$/cvs/src/test/resources/TestRunner.xml" />
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/cvs/src/test/java/testcases/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/cvs/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cvs/src/test/resources/TestRunner.xml" />
       </list>
     </option>
   </component>
@@ -267,24 +267,6 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="cvs" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cvs" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cvs" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="Web-Auto:Generic:1.0-SNAPSHOT" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cvs" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="Web-Auto:Generic:1.0-SNAPSHOT" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.seleniumhq.selenium:selenium-server:3.14.0" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
@@ -312,9 +294,9 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="153" />
+    <option name="x" value="67" />
     <option name="y" value="23" />
-    <option name="width" value="1490" />
+    <option name="width" value="1373" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -334,38 +316,16 @@
               <item name="framework3" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="framework3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework3" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework3" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework3" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538760357668" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538769160415" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -409,7 +369,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestCreateAccountPage.testInputsForSignUp">
+  <component name="RunManager" selected="TestNG./Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml">
     <configuration name="TestCreateAccountPage.testInputsForSignUp" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="cvs" />
       <extension name="coverage">
@@ -499,10 +459,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" />
         <item itemvalue="TestNG.TestCreateAccountPage.testInputsForSignUp" />
         <item itemvalue="TestNG.TestHomePage.testSearchByDBData" />
         <item itemvalue="TestNG.TestLoginKeyword.testLoginByKeyword" />
-        <item itemvalue="TestNG./Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" />
         <item itemvalue="TestNG.TestLoginKeyword" />
       </list>
     </recent_temporary>
@@ -521,41 +481,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestHomePage_testSearchByDBData - 2018.10.04 at 11h 24m 47s.xml">
-      <configuration name="TestHomePage.testSearchByDBData" configurationId="TestNG" />
+    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 16m 47s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testSearchByDBData - 2018.10.04 at 11h 31m 57s.xml">
-      <configuration name="TestHomePage.testSearchByDBData" configurationId="TestNG" />
+    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 20m 10s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testSearchByDBData - 2018.10.04 at 11h 32m 40s.xml">
-      <configuration name="TestHomePage.testSearchByDBData" configurationId="TestNG" />
+    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 30m 31s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testSearchByDBData - 2018.10.04 at 11h 33m 51s.xml">
-      <configuration name="TestHomePage.testSearchByDBData" configurationId="TestNG" />
+    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 38m 34s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testSearchByDBData - 2018.10.04 at 11h 38m 52s.xml">
-      <configuration name="TestHomePage.testSearchByDBData" configurationId="TestNG" />
+    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 40m 27s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testSearchByDBData - 2018.10.04 at 11h 41m 05s.xml">
-      <configuration name="TestHomePage.testSearchByDBData" configurationId="TestNG" />
+    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 40m 59s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testSearchByDBData - 2018.10.04 at 11h 43m 12s.xml">
-      <configuration name="TestHomePage.testSearchByDBData" configurationId="TestNG" />
+    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 42m 01s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testSearchByDBData - 2018.10.04 at 11h 49m 35s.xml">
-      <configuration name="TestHomePage.testSearchByDBData" configurationId="TestNG" />
+    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 46m 13s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCreateAccountPage_testInputsForSignUp - 2018.10.04 at 12h 18m 47s.xml">
-      <configuration name="TestCreateAccountPage.testInputsForSignUp" configurationId="TestNG" />
+    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 47m 08s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCreateAccountPage_testInputsForSignUp - 2018.10.04 at 12h 20m 43s.xml">
-      <configuration name="TestCreateAccountPage.testInputsForSignUp" configurationId="TestNG" />
+    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 53m 15s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="153" y="23" width="1490" height="877" extended-state="1" />
+    <frame x="67" y="23" width="1373" height="877" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2409396" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29861617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -564,7 +524,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.23200993" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22828785" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3560794" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39826304" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -580,7 +540,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.24899329" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.16460305" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -822,20 +782,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testcases/TestPharmacyPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testSignin/TestLoginKeyword.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="134" selection-start-line="20" selection-start-column="134" selection-end-line="20" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/ExtraCarePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testcases/TestCreateAccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="24" column="54" selection-start-line="23" selection-start-column="7" selection-end-line="24" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/signinpage/PharmecyPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="47" column="134" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/signinpage/PharmacyPageForGoogleSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="36" column="87" selection-start-line="36" selection-start-column="87" selection-end-line="36" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/signinpage/LoginKeyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="42" column="134" selection-start-line="42" selection-start-column="134" selection-end-line="42" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -844,58 +836,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testcases/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1160">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="880">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/ExtraCarePage.java">
+    <entry file="file://$PROJECT_DIR$/cvs/data/todo">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="400">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testcases/TestCreateAccountPage.java">
+    <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testcases/TestPharmacyPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="24" column="54" selection-start-line="23" selection-start-column="7" selection-end-line="24" selection-end-column="54" />
+        <state relative-caret-position="1540">
+          <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/signinpage/PharmecyPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="47" column="134" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="134" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/signinpage/PharmacyPageForGoogleSheet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="36" column="87" selection-start-line="36" selection-start-column="87" selection-end-line="36" selection-end-column="87" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/signinpage/LoginKeyword.java">
+    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/CreateAccountPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
-          <caret line="42" column="134" selection-start-line="42" selection-start-column="134" selection-end-line="42" selection-end-column="134" />
+          <caret line="34" column="59" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -912,58 +881,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/data/todo">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/test/resources/TestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/CreateAccountPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="34" column="59" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="784">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
+        <state relative-caret-position="2100">
           <caret line="105" selection-start-line="105" selection-end-line="105" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2660">
-          <caret line="133" selection-start-line="133" selection-end-line="133" />
+        <state>
+          <caret column="38" lean-forward="true" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/test/resources/TestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1019,7 +961,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>RestApi</last-edited>
+          <last-edited>cvs</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

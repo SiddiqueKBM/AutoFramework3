@@ -10,10 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Generic</module>
-        <!--<module>LetsKodeIt</module>-->
-        <!--<module>eBay</module>-->
+        <module>LetsKodeIt</module>
+        <module>eBay</module>
         <module>cvs</module>
-        <!--<module>RestApi</module>-->
+        <module>RestApi</module>
     </modules>
 
     <dependencyManagement>
@@ -169,7 +169,7 @@
                 <version>2.20.1</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFiles>target/test-classes/TestRunner.xml</suiteXmlFiles>
+                        <!--<suiteXmlFiles>target/test-classes/TestRunner.xml</suiteXmlFiles>-->
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

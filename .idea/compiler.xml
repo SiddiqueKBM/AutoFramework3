@@ -15,9 +15,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Amazon" target="1.8" />
-      <module name="eBay" target="1.8" />
-      <module name="LetsKodeIt" target="1.8" />
-      <module name="RestApi" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

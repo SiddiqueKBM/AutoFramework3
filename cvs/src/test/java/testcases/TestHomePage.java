@@ -18,7 +18,7 @@ public class TestHomePage extends HomePage {
     }
 
     //************** Test-cases for all elements of nav. bar ******************************************
-    @Test(priority = 1, enabled = true)
+    @Test(priority = 1, enabled = false)
     public void testSearch() throws InterruptedException {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
        homepage.searchPage();
@@ -26,7 +26,7 @@ public class TestHomePage extends HomePage {
        takeScreenshot(driver,"search_results");         // screen shot implemented
     }
 
-    @Test(priority = 2, enabled = true)
+    @Test(priority = 2, enabled = false)
     public void testPharmacyPage() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
          homepage.nevigateToPharmacyPage();
@@ -57,7 +57,7 @@ public class TestHomePage extends HomePage {
         homepage.nevigateToCreateAccount();
     }
     //************** Test-cases for searching items with DB data  *****************************************************
-    @Test(priority = 8, enabled = true)
+    @Test(priority = 8, enabled = false)
     public void testSearchByDBData() throws Exception {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         homepage.searchItemsFromDB();
