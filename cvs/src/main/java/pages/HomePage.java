@@ -35,6 +35,9 @@ public class HomePage extends CommonAPI {
     @FindBy(xpath="//a[contains(text(),'Create an Account')]")
     WebElement createAccountLink;
 
+    @FindBy(xpath="//a[contains(text(),'ExtraCare')]")
+    WebElement extraCareLink;
+
     public void searchPage(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         searchBox.click();
@@ -65,6 +68,10 @@ public class HomePage extends CommonAPI {
     public void nevigateToCreateAccount(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         createAccountLink.click();
+    }
+    public void nevigateToExtraCare(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        extraCareLink.click();
     }
     //************** Methods for searching items with DB data  ************************************
     List<String> listOfUsername(){

@@ -20,165 +20,96 @@
     <session id="-1905401017">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="16" />
+          <entry key="StoredCredential" value="1" />
+          <entry key="class" value="23" />
           <entry key="html" value="1" />
-          <entry key="java" value="197" />
+          <entry key="java" value="235" />
           <entry key="png" value="4" />
           <entry key="properties" value="2" />
           <entry key="todo" value="3" />
-          <entry key="xml" value="45" />
+          <entry key="xml" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="16" />
+          <entry key="CLASS" value="23" />
           <entry key="HTML" value="1" />
           <entry key="Image" value="4" />
-          <entry key="JAVA" value="197" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="JAVA" value="235" />
+          <entry key="PLAIN_TEXT" value="4" />
           <entry key="Properties" value="2" />
-          <entry key="XML" value="45" />
+          <entry key="XML" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="11362" />
+          <entry key="java" value="12934" />
           <entry key="properties" value="1" />
           <entry key="todo" value="519" />
-          <entry key="xml" value="322" />
+          <entry key="xml" value="339" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11362" />
+          <entry key="JAVA" value="12934" />
           <entry key="PLAIN_TEXT" value="520" />
           <entry key="Properties" value="1" />
-          <entry key="XML" value="322" />
+          <entry key="XML" value="339" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="framework3" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/HomePage.java">
+        <entry file="file://$PROJECT_DIR$/cvs/src/test/resources/TestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
+            <state relative-caret-position="362">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testfooter/TestFooterHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testcases/TestHomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-101">
-              <caret line="20" column="39" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cvs/data/todo">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="175" column="18" selection-start-line="175" selection-start-column="18" selection-end-line="175" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cvs/pom.xml">
+        <entry file="file://$PROJECT_DIR$/cvs/src/main/java/footerelements/FooterElementsHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="44" column="12" lean-forward="true" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cvs/src/test/resources/TestRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testcases/TestPharmacyPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1540">
-              <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2100">
-              <caret line="105" selection-start-line="105" selection-end-line="105" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/CreateAccountPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="34" column="59" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/ShopPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-952">
+              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -195,11 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cvs/src/main/java/pages/PharmecyPage.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java" />
-        <option value="$PROJECT_DIR$/cvs/src/main/java/signinpage/PharmcyPageForGoogleSheet.java" />
-        <option value="$PROJECT_DIR$/LetsKodeIt/src/main/java/dropdownboots/TestDropdown.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" />
         <option value="$PROJECT_DIR$/LetsKodeIt/src/test/java/dropdownboots/TestDropdown.java" />
         <option value="$PROJECT_DIR$/LetsKodeIt/src/test/java/dropdownboots/HoverDropdown.java" />
         <option value="$PROJECT_DIR$/LetsKodeIt/src/test/java/dropdownboots/TestHoverDropdown.java" />
@@ -229,23 +155,28 @@
         <option value="$PROJECT_DIR$/Generic/src/main/java/utility/ConnectToMongoDB.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/secret.properties" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/utility/ConnectToSqlDB2.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
-        <option value="$PROJECT_DIR$/cvs/src/main/java/pages/HomePage.java" />
-        <option value="$PROJECT_DIR$/cvs/src/test/java/testSignin/TestLoginKeyword.java" />
-        <option value="$PROJECT_DIR$/cvs/src/test/java/testSignin/TestSigninByGoogleSheet.java" />
-        <option value="$PROJECT_DIR$/cvs/src/test/java/testcases/TestPharmacyPage.java" />
         <option value="$PROJECT_DIR$/cvs/src/main/java/signinpage/LoginKeyword.java" />
         <option value="$PROJECT_DIR$/cvs/src/main/java/signinpage/PharmacyPageForGoogleSheet.java" />
-        <option value="$PROJECT_DIR$/cvs/src/main/java/pages/ExtraCarePage.java" />
-        <option value="$PROJECT_DIR$/cvs/src/main/java/pages/ShopPage.java" />
         <option value="$PROJECT_DIR$/cvs/src/test/java/testcases/TestCreateAccountPage.java" />
         <option value="$PROJECT_DIR$/cvs/src/main/java/pages/CreateAccountPage.java" />
         <option value="$PROJECT_DIR$/cvs/data/todo" />
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
-        <option value="$PROJECT_DIR$/cvs/src/test/resources/TestRunner.xml" />
-        <option value="$PROJECT_DIR$/cvs/src/test/java/testcases/TestHomePage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/cvs/pom.xml" />
+        <option value="$PROJECT_DIR$/cvs/src/test/java/testcases/TestPharmacyPage.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/cvs/src/main/java/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/cvs/src/main/java/pages/ExtraCarePage.java" />
+        <option value="$PROJECT_DIR$/cvs/src/test/java/testcases/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/cvs/src/test/java/testcases/testfooter/FooterElementsHomePage.java" />
+        <option value="$PROJECT_DIR$/cvs/src/test/resources/TestRunner.xml" />
+        <option value="$PROJECT_DIR$/cvs/src/test/java/testSignin/TestLoginKeyword.java" />
+        <option value="$PROJECT_DIR$/cvs/src/test/java/testfooter/TestFooterHomePage.java" />
+        <option value="$PROJECT_DIR$/cvs/src/test/java/testcases/TestShopPage.java" />
+        <option value="$PROJECT_DIR$/cvs/src/test/java/testcases/TestExtraCarePage.java" />
+        <option value="$PROJECT_DIR$/cvs/src/test/java/testSignin/TestSigninByGoogleSheet.java" />
+        <option value="$PROJECT_DIR$/cvs/src/main/java/pages/ShopPage.java" />
+        <option value="$PROJECT_DIR$/cvs/src/main/java/footerelements/FooterElementsHomePage.java" />
       </list>
     </option>
   </component>
@@ -272,20 +203,6 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="framework-3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="framework-3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
       </expand>
       <select />
     </treeState>
@@ -293,8 +210,8 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="67" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="56" />
     <option name="y" value="23" />
     <option name="width" value="1373" />
     <option name="height" value="877" />
@@ -304,6 +221,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -320,6 +239,12 @@
               <item name="framework3" type="b2602c69:ProjectViewProjectNode" />
               <item name="framework3" type="462c0819:PsiDirectoryNode" />
               <item name="cvs" type="462c0819:PsiDirectoryNode" />
+              <item name="Extent-Report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework3" type="462c0819:PsiDirectoryNode" />
+              <item name="cvs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -328,6 +253,41 @@
               <item name="cvs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework3" type="462c0819:PsiDirectoryNode" />
+              <item name="cvs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework3" type="462c0819:PsiDirectoryNode" />
+              <item name="cvs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="footerelements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework3" type="462c0819:PsiDirectoryNode" />
+              <item name="cvs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework3" type="462c0819:PsiDirectoryNode" />
+              <item name="cvs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="signinpage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="framework3" type="b2602c69:ProjectViewProjectNode" />
@@ -356,18 +316,37 @@
             <path>
               <item name="framework3" type="b2602c69:ProjectViewProjectNode" />
               <item name="framework3" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="cvs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testfooter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework3" type="462c0819:PsiDirectoryNode" />
+              <item name="cvs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testSignin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework3" type="462c0819:PsiDirectoryNode" />
+              <item name="cvs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538772248640" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539152461087" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -375,9 +354,21 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic" />
+      <recent name="$PROJECT_DIR$/Generic/src" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
+      <recent name="$PROJECT_DIR$/cvs/src" />
+      <recent name="$PROJECT_DIR$/cvs/src/main/resources" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="Search" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utility" />
+      <recent name="googleAPIs" />
+      <recent name="reporting" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Generic/src/main/java/utility" />
@@ -385,18 +376,6 @@
       <recent name="$PROJECT_DIR$/Generic/src/main/java/reporting" />
       <recent name="$PROJECT_DIR$/Generic/src/main/java/dataProviderXls" />
       <recent name="$PROJECT_DIR$/Generic/Browser-Driver" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="utility" />
-      <recent name="googleAPIs" />
-      <recent name="reporting" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Generic" />
-      <recent name="$PROJECT_DIR$/Generic/src" />
-      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
-      <recent name="$PROJECT_DIR$/cvs/src" />
-      <recent name="$PROJECT_DIR$/cvs/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -411,18 +390,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml">
-    <configuration name="TestCreateAccountPage.testInputsForSignUp" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestFooterHomePage.testStoreLocatorLink">
+    <configuration name="FooterElementsHomePage.navigateFacebookLink" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="cvs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testcases.*" />
+          <option name="PATTERN" value="footerelements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.TestCreateAccountPage" />
-      <option name="METHOD_NAME" value="testInputsForSignUp" />
+      <option name="PACKAGE_NAME" value="footerelements" />
+      <option name="MAIN_CLASS_NAME" value="footerelements.FooterElementsHomePage" />
+      <option name="METHOD_NAME" value="navigateFacebookLink" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -430,17 +409,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHomePage.testSearchByDBData" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFooterHomePage.testFacebookLink" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="cvs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testcases.*" />
+          <option name="PATTERN" value="testfooter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.TestHomePage" />
-      <option name="METHOD_NAME" value="testSearchByDBData" />
+      <option name="PACKAGE_NAME" value="testfooter" />
+      <option name="MAIN_CLASS_NAME" value="testfooter.TestFooterHomePage" />
+      <option name="METHOD_NAME" value="testFacebookLink" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -448,33 +427,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLoginKeyword" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFooterHomePage.testPrivacyPolicyLink" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="cvs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testSignin.*" />
+          <option name="PATTERN" value="testfooter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testSignin" />
-      <option name="MAIN_CLASS_NAME" value="testSignin.TestLoginKeyword" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestLoginKeyword.testLoginByKeyword" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="cvs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testSignin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testSignin" />
-      <option name="MAIN_CLASS_NAME" value="testSignin.TestLoginKeyword" />
-      <option name="METHOD_NAME" value="testLoginByKeyword" />
+      <option name="PACKAGE_NAME" value="testfooter" />
+      <option name="MAIN_CLASS_NAME" value="testfooter.TestFooterHomePage" />
+      <option name="METHOD_NAME" value="testPrivacyPolicyLink" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -482,10 +445,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFooterHomePage.testStoreLocatorLink" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="cvs" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/cvs/src/test/resources/TestRunner.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testfooter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testfooter" />
+      <option name="MAIN_CLASS_NAME" value="testfooter.TestFooterHomePage" />
+      <option name="METHOD_NAME" value="testStoreLocatorLink" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFooterHomePage.testYoutubeLink" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cvs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testfooter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testfooter" />
+      <option name="MAIN_CLASS_NAME" value="testfooter.TestFooterHomePage" />
+      <option name="METHOD_NAME" value="testYoutubeLink" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -493,19 +482,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG./Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" />
-      <item itemvalue="TestNG.TestLoginKeyword.testLoginByKeyword" />
-      <item itemvalue="TestNG.TestLoginKeyword" />
-      <item itemvalue="TestNG.TestHomePage.testSearchByDBData" />
-      <item itemvalue="TestNG.TestCreateAccountPage.testInputsForSignUp" />
+      <item itemvalue="TestNG.TestFooterHomePage.testFacebookLink" />
+      <item itemvalue="TestNG.FooterElementsHomePage.navigateFacebookLink" />
+      <item itemvalue="TestNG.TestFooterHomePage.testPrivacyPolicyLink" />
+      <item itemvalue="TestNG.TestFooterHomePage.testYoutubeLink" />
+      <item itemvalue="TestNG.TestFooterHomePage.testStoreLocatorLink" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" />
-        <item itemvalue="TestNG.TestCreateAccountPage.testInputsForSignUp" />
-        <item itemvalue="TestNG.TestHomePage.testSearchByDBData" />
-        <item itemvalue="TestNG.TestLoginKeyword.testLoginByKeyword" />
-        <item itemvalue="TestNG.TestLoginKeyword" />
+        <item itemvalue="TestNG.TestFooterHomePage.testStoreLocatorLink" />
+        <item itemvalue="TestNG.TestFooterHomePage.testYoutubeLink" />
+        <item itemvalue="TestNG.TestFooterHomePage.testPrivacyPolicyLink" />
+        <item itemvalue="TestNG.TestFooterHomePage.testFacebookLink" />
+        <item itemvalue="TestNG.FooterElementsHomePage.navigateFacebookLink" />
       </list>
     </recent_temporary>
   </component>
@@ -523,50 +512,50 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 20m 10s.xml">
-      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    <history-entry file="TestHomePage_testClinicPage - 2018.10.10 at 00h 51m 15s.xml">
+      <configuration name="TestHomePage.testClinicPage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 30m 31s.xml">
-      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    <history-entry file="TestHomePage_testShopPage - 2018.10.10 at 00h 51m 51s.xml">
+      <configuration name="TestHomePage.testShopPage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 38m 34s.xml">
-      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    <history-entry file="TestHomePage_testExtraCarePage - 2018.10.10 at 00h 53m 29s.xml">
+      <configuration name="TestHomePage.testExtraCarePage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 40m 27s.xml">
-      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    <history-entry file="TestFooterHomePage_testFacebookLink - 2018.10.10 at 01h 34m 17s.xml">
+      <configuration name="TestFooterHomePage.testFacebookLink" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 40m 59s.xml">
-      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    <history-entry file="FooterElementsHomePage_navigateFacebookLink - 2018.10.10 at 01h 40m 20s.xml">
+      <configuration name="FooterElementsHomePage.navigateFacebookLink" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 42m 01s.xml">
-      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    <history-entry file="TestFooterHomePage_testFacebookLink - 2018.10.10 at 01h 42m 21s.xml">
+      <configuration name="TestFooterHomePage.testFacebookLink" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 46m 13s.xml">
-      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    <history-entry file="TestFooterHomePage_testPrivacyPolicyLink - 2018.10.10 at 02h 05m 24s.xml">
+      <configuration name="TestFooterHomePage.testPrivacyPolicyLink" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 47m 08s.xml">
-      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    <history-entry file="TestFooterHomePage_testYoutubeLink - 2018.10.10 at 02h 06m 02s.xml">
+      <configuration name="TestFooterHomePage.testYoutubeLink" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 15h 53m 15s.xml">
-      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    <history-entry file="TestFooterHomePage_testYoutubeLink - 2018.10.10 at 02h 06m 50s.xml">
+      <configuration name="TestFooterHomePage.testYoutubeLink" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_riadh_IdeaProjects_framework3_cvs_src_test_resources_TestRunner_xml - 2018.10.05 at 16h 41m 15s.xml">
-      <configuration name="/Users/riadh/IdeaProjects/framework3/cvs/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    <history-entry file="TestFooterHomePage_testStoreLocatorLink - 2018.10.10 at 02h 07m 17s.xml">
+      <configuration name="TestFooterHomePage.testStoreLocatorLink" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="23" width="1373" height="877" extended-state="0" />
+    <frame x="56" y="23" width="1373" height="877" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29861617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840763" visible="true" weight="0.2971595" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.50159234" side_tool="true" weight="0.2177713" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.23200993" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13275434" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26923078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39826304" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -582,7 +571,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.16460305" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.15950474" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -593,76 +582,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/apis/google-api-services-sheets/v4-rev498-1.23.0/google-api-services-sheets-v4-rev498-1.23.0.jar!/com/google/api/services/sheets/v4/Sheets.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="52" column="89" selection-start-line="52" selection-start-column="70" selection-end-line="52" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LetsKodeIt/src/test/java/seleniumfeatures/AlertHandleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LetsKodeIt/src/test/java/seleniumfeatures/DragnDrop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="14" column="83" selection-start-line="14" selection-start-column="83" selection-end-line="14" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LetsKodeIt/src/test/java/seleniumfeatures/PopupWindowHandle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LetsKodeIt/src/test/java/seleniumfeatures/TestHoverDropdown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LetsKodeIt/src/test/java/seleniumfeatures/TestDropdown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LetsKodeIt/src/test/java/seleniumfeatures/NavigationRefresh.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LetsKodeIt/src/test/java/seleniumfeatures/ExpilicitWaitMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LetsKodeIt/src/main/java/SignUpPageObject/SignPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RestApi/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -810,75 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testSignin/TestSigninByGoogleSheet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" column="103" selection-start-line="25" selection-start-column="103" selection-end-line="25" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2520">
-          <caret line="244" column="16" selection-start-line="244" selection-start-column="16" selection-end-line="244" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testSignin/TestLoginKeyword.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="134" selection-start-line="20" selection-start-column="134" selection-end-line="20" selection-end-column="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/ExtraCarePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testcases/TestCreateAccountPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="24" column="54" selection-start-line="23" selection-start-column="7" selection-end-line="24" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/signinpage/PharmecyPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="47" column="134" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/signinpage/PharmacyPageForGoogleSheet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="36" column="87" selection-start-line="36" selection-start-column="87" selection-end-line="36" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/signinpage/LoginKeyword.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="42" column="134" selection-start-line="42" selection-start-column="134" selection-end-line="42" selection-end-column="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cvs/data/todo">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -886,33 +736,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testcases/TestPharmacyPage.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1540">
-          <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="3500">
+          <caret line="175" column="18" selection-start-line="175" selection-start-column="18" selection-end-line="175" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/CreateAccountPage.java">
+    <entry file="file://$PROJECT_DIR$/cvs/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="34" column="59" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="880">
+          <caret line="44" column="12" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/ShopPage.java">
+    <entry file="file://$PROJECT_DIR$/LetsKodeIt/src/test/java/seleniumfeatures/PopupWindowHandle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="280">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -923,10 +764,164 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/.credentials/sheets-googleapis/StoredCredential">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/org/junit/internal/runners/model/EachTestNotifier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <element signature="e#3377#3378#0" expanded="true" />
+            <element signature="e#3407#3408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testcases/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-101">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="39" />
+        <state relative-caret-position="482">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testcases/TestPharmacyPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testSignin/TestLoginKeyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="20" column="66" lean-forward="true" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testcases/TestShopPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="21" column="72" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testcases/TestExtraCarePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1329">
+          <caret line="69" column="1" lean-forward="true" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testSignin/TestSigninByGoogleSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testcases/TestCreateAccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13" column="73" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/CreateAccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="34" column="59" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/ExtraCarePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/signinpage/PharmecyPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <caret line="51" column="45" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/signinpage/PharmacyPageForGoogleSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="36" column="87" selection-start-line="36" selection-start-column="87" selection-end-line="36" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/signinpage/LoginKeyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="42" column="134" selection-start-line="42" selection-start-column="134" selection-end-line="42" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/ShopPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-712">
+          <caret line="41" column="134" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="134" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -935,22 +930,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cvs/src/test/resources/TestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="362">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/cvs/src/test/java/testfooter/TestFooterHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="175" column="18" selection-start-line="175" selection-start-column="18" selection-end-line="175" selection-end-column="18" />
+        <state relative-caret-position="311">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cvs/pom.xml">
+    <entry file="file://$PROJECT_DIR$/cvs/src/main/java/footerelements/FooterElementsHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="44" column="12" lean-forward="true" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
+        <state relative-caret-position="-952">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
         </state>
       </provider>
     </entry>

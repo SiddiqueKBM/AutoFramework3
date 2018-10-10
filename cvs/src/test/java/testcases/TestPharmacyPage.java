@@ -59,7 +59,7 @@ public class TestPharmacyPage extends PharmecyPage {
         Assert.assertEquals(actual, itemOfDropdown);
     }
 
-    //************** Testing login function with Excel data provided in script ********************
+    //************** Testing login function with data provided in script ********************
     @Test(priority = 4)
     public void loginTest(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
@@ -86,6 +86,5 @@ public class TestPharmacyPage extends PharmecyPage {
         pharmecyPage.logInUsingDataProvider(email, passCode);
         String actual = invalidLoginMessage.getText();
         Assert.assertEquals(actual,message);
-        TestLogger.log("Test passed!");
     }
 }

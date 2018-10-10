@@ -12,19 +12,14 @@
 
     <test name = "E-commerce Services">
         <classes>
-            <class name="testcases.TestHomePage"/>
+            <!--<class name="testcases.TestHomePage"/>-->
             <!--<class name="testcases.TestPharmacyPage"/>-->
-        </classes>
-
-    </test>
-
-    <test name="Alternate">
-
-
-        <classes>
+            <!--<class name="testcases.TestExtraCarePage"/>-->
+            <class name="testcases.TestShopPage"/>
             <!--<class name="testSignin.TestLoginKeyword"/>-->
             <!--<class name="testSignin.TestSigninByGoogleSheet"/>  -->
         </classes>
+
     </test>
 
 </suite>

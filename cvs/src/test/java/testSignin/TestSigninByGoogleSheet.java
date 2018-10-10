@@ -18,15 +18,14 @@ public class TestSigninByGoogleSheet extends PharmacyPageForGoogleSheet {
     PharmacyPageForGoogleSheet pharmacyPageForGoogleSheet;
 
     //************** Initializing elements of pages******************************************
-
     @BeforeMethod
     public void intializeElements(){
         homePage = PageFactory.initElements(driver, HomePage.class);
         //pharmecyPage = PageFactory.initElements(driver,PharmecyPage.class);
         pharmacyPageForGoogleSheet = PageFactory.initElements(driver,PharmacyPageForGoogleSheet.class);
     }
-    //********** checking invalid login error messages using google sheet*******************************
 
+    //********** checking invalid login error messages using google sheet*******************************
     @Test
     public void testSignInByInvalidCredentials() throws InterruptedException, IOException {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));

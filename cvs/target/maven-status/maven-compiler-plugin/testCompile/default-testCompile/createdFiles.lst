@@ -7,6 +7,7 @@ testcases/TestPharmacyPage$5.class
 testcases/TestHomePage$4.class
 testcases/TestHomePage$1.class
 testSignin/TestSigninByGoogleSheet$1.class
+testcases/TestExtraCarePage.class
 testcases/TestHomePage.class
 testcases/TestPharmacyPage$4.class
 testcases/TestHomePage$2.class
